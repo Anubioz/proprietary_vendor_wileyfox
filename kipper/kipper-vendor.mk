@@ -1,5 +1,4 @@
-# Copyright (C) 2015-2016 The CyanogenMod Project
-# Copyright (C) 2017 The LineageOS Project
+# Copyright (C) 2018 The CyanogenMod Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -274,4 +273,11 @@ PRODUCT_PACKAGES += \
     qcrilmsgtunnel \
     qcnvitems \
     qcrilhook \
-    cktnvtool
+    cktnvtool \
+    FDroid \
+    WFCamera \
+    AdAway \
+    KernelAdiutor \
+    Superuser \
+    LuckyPatcher 
+	
